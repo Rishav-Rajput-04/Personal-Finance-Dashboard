@@ -79,7 +79,7 @@ const Navbar = () => {
             <Typography
               variant="h6"
               component={Link}
-              to="/"
+              to="/personal-finance-dashboard/"
               sx={{ flexGrow: 1, textDecoration: 'none', color: 'inherit' }}
             >
               Personal Finance Dashboard
